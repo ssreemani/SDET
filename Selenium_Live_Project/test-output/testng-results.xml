@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34067" started-at="2020-07-09T09:57:17 IST" finished-at="2020-07-09T09:57:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34067" started-at="2020-07-09T09:57:17 IST" finished-at="2020-07-09T09:57:51 IST">
+      <class name="Live_Project.TestCase_9">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Live_Project.TestCase_9@5a8e6209]" name="beforeMethod" is-config="true" duration-ms="12541" started-at="2020-07-09T09:57:17 IST" finished-at="2020-07-09T09:57:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestCase9()[pri:0, instance:Live_Project.TestCase_9@5a8e6209]" name="TestCase9" duration-ms="17297" started-at="2020-07-09T09:57:30 IST" finished-at="2020-07-09T09:57:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase9 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Live_Project.TestCase_9@5a8e6209]" name="afterMethod" is-config="true" duration-ms="4153" started-at="2020-07-09T09:57:47 IST" finished-at="2020-07-09T09:57:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Live_Project.TestCase_9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

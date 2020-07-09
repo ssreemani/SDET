@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Selenium_Live_Project]" parallel="classes">
+  <test thread-count="5" name="TestngTest_Live_Project(failed)" parallel="classes">
+    <classes>
+      <class name="Live_Project.TestCase_9">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="TestCase9"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Live_Project.TestCase_9 -->
+    </classes>
+  </test> <!-- TestngTest_Live_Project(failed) -->
+</suite> <!-- Failed suite [Selenium_Live_Project] -->

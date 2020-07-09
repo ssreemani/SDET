@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite parallel="classes" name="Selenium_Live_Project" >
+    <test name="TestngTest_Live_Project" >
+        <classes>
+            <class name="Live_Project.TestCase_1"/>
+            <class name="Live_Project.TestCase_2"/>
+            <class name="Live_Project.TestCase_3"/>
+            <class name="Live_Project.TestCase_4"/>
+            <class name="Live_Project.TestCase_5"/>
+            <class name="Live_Project.TestCase_6"/>
+            <class name="Live_Project.TestCase_7"/>
+            <class name="Live_Project.TestCase_8"/>
+            <class name="Live_Project.TestCase_9"/>
+        </classes>
+    </test>
+</suite>
