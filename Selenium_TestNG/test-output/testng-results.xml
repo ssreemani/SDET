@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58994" started-at="2020-07-08T18:50:23 IST" finished-at="2020-07-08T18:51:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58994" started-at="2020-07-08T18:50:23 IST" finished-at="2020-07-08T18:51:22 IST">
+      <class name="TestNG.Activity7">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNG.Activity7@731a74c]" name="beforeClass" is-config="true" duration-ms="48866" started-at="2020-07-08T18:50:23 IST" finished-at="2020-07-08T18:51:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginTestCase(java.lang.String, java.lang.String)[pri:0, instance:TestNG.Activity7@731a74c]" name="loginTestCase" duration-ms="3284" started-at="2020-07-08T18:51:12 IST" data-provider="Authentication" finished-at="2020-07-08T18:51:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.Activity7@731a74c]" name="afterClass" is-config="true" duration-ms="6769" started-at="2020-07-08T18:51:15 IST" finished-at="2020-07-08T18:51:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNG.Activity7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
